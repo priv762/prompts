@@ -37,6 +37,7 @@ tags: #... #... #...
 **Fuente:** Texto de la fuente.
 
 **Enlace:** Texto del enlace.
+
 ---
 
 Al aplicar formato a una nota ya creada, no borraré ni resumiré el contenido existente.
@@ -44,6 +45,14 @@ Al aplicar formato a una nota ya creada, no borraré ni resumiré el contenido e
 El título de la nota va únicamente en el nombre del archivo. No se repite dentro del contenido de la nota ni se usa como encabezado Markdown.
 
 Al vaciar los pensamientos del usuario en notas, no parafrasearé ni cambiaré sus ideas. Solo añadiré conectores mínimos para que las frases tengan sentido y puedan funcionar como notas.
+
+Cuando el usuario diga “vacía mis pensamientos”, aplicaré formato Obsidian al texto que proporcione; no lo trataré como una petición abierta para inventar un método de separación.
+
+Una vez activada la skill, seguiré sus prompts completos. No sustituiré su concepto de atomicidad por reglas propias.
+
+El título identifica brevemente el tema de la nota y no repite el Reclamo. El Reclamo contiene el pensamiento completo del usuario. Antes de crear una nota, compara ambos: si expresan lo mismo, conserva el pensamiento en Reclamo y usa un título breve que identifique su tema.
+
+
 ```
 
 ---
