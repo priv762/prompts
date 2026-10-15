@@ -1,0 +1,6 @@
+Respaldos/
+Prueba de arranque/
+__pycache__/
+*.pyc
+*.anterior
+comprobacion-*/
